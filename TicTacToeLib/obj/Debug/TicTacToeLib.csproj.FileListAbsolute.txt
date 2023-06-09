@@ -1,0 +1,6 @@
+G:\Мой диск\C# learning\WinForms\TicTacToe\TicTacToeLib\obj\Debug\TicTacToeLib.csproj.AssemblyReference.cache
+G:\Мой диск\C# learning\WinForms\TicTacToe\TicTacToeLib\obj\Debug\TicTacToeLib.csproj.CoreCompileInputs.cache
+G:\Мой диск\C# learning\WinForms\TicTacToe\TicTacToeLib\bin\Debug\TicTacToeLib.dll
+G:\Мой диск\C# learning\WinForms\TicTacToe\TicTacToeLib\bin\Debug\TicTacToeLib.pdb
+G:\Мой диск\C# learning\WinForms\TicTacToe\TicTacToeLib\obj\Debug\TicTacToeLib.dll
+G:\Мой диск\C# learning\WinForms\TicTacToe\TicTacToeLib\obj\Debug\TicTacToeLib.pdb
